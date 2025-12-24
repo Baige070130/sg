@@ -6,31 +6,31 @@
     box-sizing: border-box;
 }@font-face {
     font-family: Aa剑豪体 ;
-    src: url(font/Aa剑豪体.ttf);
+    src: url(Aa剑豪体.ttf);
 }
 @font-face {
     font-family: 白路飞云手写体 ;
-    src: url(font/白路飞云手写体.ttf);
+    src: url(白路飞云手写体.ttf);
 }
 @font-face {
     font-family: 白路俏丽手写体;
-    src: url(font/白路俏丽手写体.ttf);
+    src: url(白路俏丽手写体.ttf);
 }
 @font-face {
     font-family: 昆明海鸥体;
-    src: url(font/昆明海鸥体.ttf);
+    src: url(昆明海鸥体.ttf);
 }
 @font-face {
     font-family: 小狼天穹体;
-    src: url(font/小狼天穹.ttf);
+    src: url(小狼天穹.ttf);
 }
 @font-face {
     font-family: 小箱子荣耀体;
-    src: url(font/小箱子荣耀体.ttf);
+    src: url(小箱子荣耀体.ttf);
 }
 @font-face {
     font-family: 伊莫勘比 ;
-    src: url(font/伊莫勘比.ttf);
+    src: url(伊莫勘比.ttf);
 }
     
 .one{
@@ -72,4 +72,5 @@
     padding:20px;
     border:50% solid lightblue;
     box-shadow: 10px 10px 5px grey;
+
 }
